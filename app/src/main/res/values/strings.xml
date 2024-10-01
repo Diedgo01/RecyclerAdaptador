@@ -1,0 +1,63 @@
+<resources>
+    <string name="personajes_nombre">Yuji Itadori</string>
+    <string name="personajes_ocupacion">Hechicero</string>
+    <string name="personajes_grado">Grado: 1</string>
+    <string name="personajes_titulos">Yuji Itadori - El Protagonista</string>
+
+    <string name="tituloss">Personajes de Jujutsu Kaisen</string>
+
+    <string name="app_name">RecyclerAdaptador</string>
+    <string-array name="personajes_nomb">
+        <item>Yuji Itadori</item>
+        <item>Gojo Satoru</item>
+        <item>Megumi Fushiguro</item>
+        <item>Nanami Kento</item>
+        <item>Ryōmen Sukuna</item>
+        <item>Suguru Getō</item>
+        <item>Yūta Okkotsu</item>
+        <item>Nobara Kugisaki</item>
+        <item>Aoi Todo</item>
+        <item>Maki Zenin</item>
+    </string-array>
+
+    <string-array name="personajes_ocupa">
+        <item>Hechicero</item>
+        <item>Hechicero</item>
+        <item>Hechicero</item>
+        <item>Hechicero</item>
+        <item>Maldicion</item>
+        <item>Hechicero</item>
+        <item>Hechicero</item>
+        <item>Hechicero</item>
+        <item>Hechicero</item>
+        <item>Hechicero</item>
+    </string-array>
+
+    <string-array name="personajes_gra">
+        <item>Grado: 1</item>
+        <item>Grado: Especial</item>
+        <item>Grado: 2</item>
+        <item>Grado: 1</item>
+        <item>Grado: Especial</item>
+        <item>Grado: Especial</item>
+        <item>Grado: Especial</item>
+        <item>Grado: 3</item>
+        <item>Grado: 1</item>
+        <item>Grado: 2</item>
+    </string-array>
+
+    <string-array name="personajes_titulos">
+        <item>Yuji Itadori - El Protagonista</item>
+        <item>Gojo Satoru - El Hechicero Más Fuerte</item>
+        <item>Megumi Fushiguro - El Heredero del Clan Zenin</item>
+        <item>Nanami Kento - El Hechicero de Grado 1</item>
+        <item>Ryōmen Sukuna - El Rey de las Maldiciones</item>
+        <item>Suguru Getō - El Villano</item>
+        <item>Yūta Okkotsu - El Hechicero Especial</item>
+        <item>Nobara Kugisaki - La Hechicera de Grado 3</item>
+        <item>Aoi Todo - El Hechicero de Grado 1</item>
+        <item>Maki Zenin - La Hechicera de Grado 2</item>
+    </string-array>
+
+
+</resources>
